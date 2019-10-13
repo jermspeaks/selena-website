@@ -122,7 +122,7 @@ _B.A. Economics, Minor in Nexus Nonprofit Organizations and Entrepreneurship_
 
 </div>
 
-<div align="left">
+<div align="left" class="skill">
 
 ### Language
 
@@ -138,7 +138,7 @@ _B.A. Economics, Minor in Nexus Nonprofit Organizations and Entrepreneurship_
 
 </div>
 
-<div align="left">
+<div align="left" class="skill">
 
 ### Other
 

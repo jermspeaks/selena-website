@@ -1,3 +1,8 @@
 .skills {
   display: flex;
+  flex-wrap: wrap;
+}
+
+.skill {
+  flex: 0 1 50%;
 }
