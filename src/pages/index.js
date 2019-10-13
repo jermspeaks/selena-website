@@ -75,7 +75,7 @@ export default ({ data, location }) => {
     <Layout location={location} title={siteMetadata.title}>
       <Head title={HOME_TITLE} keywords={siteMetadata.keywords} />
       <Bio />
-      <Category
+      {/* <Category
         categories={categories}
         category={category}
         selectCategory={selectCategory}
@@ -85,7 +85,7 @@ export default ({ data, location }) => {
         countOfInitialPost={countOfInitialPost}
         count={count}
         category={category}
-      />
+      /> */}
     </Layout>
   )
 }

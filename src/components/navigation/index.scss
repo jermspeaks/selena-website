@@ -1,0 +1,14 @@
+.navigation {
+  display: flex;
+  align-items: center;
+
+  li {
+    margin-left: 1rem;
+    margin-right: 1rem;
+    list-style-type: none;
+  }
+
+  li a {
+    color: inherit;
+  }
+}
