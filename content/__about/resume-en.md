@@ -12,6 +12,14 @@ lang: 'en'
 
 <!-- _Thank you for reading my resume. If you want to contact me, Please send me an email._ -->
 
+## Mission
+
+<div align="left">
+
+I help organizations build better teams and the culture that attracts better, and more diverse, people. Let's talk about how to reinvest in your team, think differently about how you hire, and get your people in the right positions. Interest piqued? Let's chat about it!
+
+</div>
+
 ## Experience
 
 ###  The Volta Menstrual Health Project
