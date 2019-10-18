@@ -16,7 +16,7 @@ lang: 'en'
 
 <div align="left">
 
-I help organizations build better teams and the culture that attracts better, and more diverse, people. Let's talk about how to reinvest in your team, think differently about how you hire, and get your people in the right positions. Interest piqued? Let's chat about it!
+A dedicated professional that is highly organized and detail orientated with experience and interest in nonprofit work, education, and operational work.
 
 </div>
 
@@ -126,7 +126,8 @@ _B.A. Economics, Minor in Nexus Nonprofit Organizations and Entrepreneurship_
 - R Studio
 - Photoshop
 - Social Media
-- User Research and Marketing.
+- User Research and Marketing
+- Salesforce
 
 </div>
 
