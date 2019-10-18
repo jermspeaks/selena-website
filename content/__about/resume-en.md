@@ -48,7 +48,7 @@ Financial Services Advisor | May 2018 – Jun 2019
 
 ### Oaktree Playgarden
 
-Adminstrative Assistant | Nov 2016 - Dec 2019
+Adminstrative Assistant | Nov 2016 - Dec 2018
 
 <div align="left">
 
