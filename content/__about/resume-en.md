@@ -82,7 +82,7 @@ Teaching Assistant | May – Aug 2017
 
 ### Swissnex
 
-Administrative Assistant | Oct 2015 – Oct 2016
+Executive Assistant | Oct 2015 – Oct 2016
 
 <div align="left">
 
