@@ -42,6 +42,18 @@ Financial Services Advisor | May 2018 – Jun 2019
 
 - Taught financial education through one-on-one meetings and outreach workshop events.
 - Engaging customers to becoming active and returning customers with a 300% increase to my annual quota.
+- Establishing and maintaining a strong relationship with my team effectively and mentoring new members.
+
+</div>
+
+### Oaktree Playgarden
+
+Adminstrative Assistant | Nov 2016 - Dec 2019
+
+<div align="left">
+
+- Conducted clerical work such as creating invoices, data entry, and organizing files.
+- Created and wrote content for the website, social media platforms, outreach letters and monthly newsletters.
 
 </div>
 
@@ -74,7 +86,7 @@ Administrative Assistant | Oct 2015 – Oct 2016
 
 <div align="left">
 
-- Assisted accountants and the finance team with but not limited to maintaining spreadsheets, financial databases, and budget planning.
+- Assisted accountants and the finance team with but not limited to maintaining spreadsheets, financial databases, CRM, and budget planning.
 - Preformed clerical work such as filing confidential documents, directing phone calls, copying, printing, and faxing documents
 
 </div>
