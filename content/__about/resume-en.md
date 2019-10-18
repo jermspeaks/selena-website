@@ -151,7 +151,7 @@ _B.A. Economics, Minor in Nexus Nonprofit Organizations and Entrepreneurship_
 
 ### Other
 
-- Customer Development,
+- Customer Development
 - Team Management
 - Product Development
 
